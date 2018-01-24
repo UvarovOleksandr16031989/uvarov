@@ -1,0 +1,87 @@
+.section_plans{
+	padding: 0 0 111px 0;
+}
+.plans_title{
+	text-align: center;
+	color: #4e4e4e;
+	font-family: 'Conv_Myriad-Pro';
+	font-size: 47px;
+	font-weight: 400;
+	line-height: 50.08px;
+	letter-spacing: -0.72px;
+	padding: 117px 0 18px 0;
+}
+.plans_content{
+	text-align: center;
+	color: #737070;
+	font-family: 'Conv_Myriad-Pro';
+	font-size: 25px;
+	font-weight: 400;
+	line-height: 26.72px;
+	letter-spacing: -0.72px;
+	padding: 0 0 93px 0;
+}
+.plans_menu{
+	display: inline-block;
+	background-color: #d3cfcf;
+	width: 31%;
+	margin: 0 1% 40px ;
+	text-align: center;
+    word-spacing: normal;
+	
+}
+.plans_menu_title{
+	color: #afacac;
+	font-family: 'Conv_Myriad-Pro';
+	font-size: 33px;
+	font-weight: 400;
+	line-height: 34.67px;
+	letter-spacing: -0.72px;
+	padding: 36px 0 0 0;
+	word-spacing: -8px;
+
+	}
+.palans_menu_title_strong{
+	color: #7d7b7b;
+	font-family: 'Conv_Myriad-Pro-Semibold';
+	font-size: 33px;
+	font-weight: 400;
+	line-height: 34.67px;
+	letter-spacing: -0.72px;
+}
+.plans_menu_content{
+	color: #4e4e4e;
+font-family: 'Conv_Myriad-Pro';
+font-size: 32px;
+font-weight: 400;
+line-height: 33.69px;
+letter-spacing: -0.72px;
+padding: 51px 0 0 0;
+}
+.plans_menu_price{
+	color: #b38e48;
+font-family: 'Conv_Myriad-Pro';
+font-size: 32px;
+font-weight: 400;
+line-height: 33.69px;
+letter-spacing: -0.72px;
+padding: 16px 0 37px 0;
+}
+.plans_menu_batton{
+	color: #e9ede9;
+font-family: 'Conv_Myriad-Pro';
+font-size: 16px;
+font-weight: 400;
+line-height: 16.74px;
+/* Text style for "V, iew det" */
+letter-spacing: -0.72px;
+display: inline-block;
+line-height: 40px;
+width: 116px;
+background-color: #71ae5a;
+border-radius: 13px;
+margin:  0 0 41px 0;
+}
+.plans_price{
+	word-spacing: -4px;
+}

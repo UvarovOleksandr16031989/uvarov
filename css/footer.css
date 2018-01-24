@@ -1,0 +1,41 @@
+.section_footer{
+	padding: 91px 0 0 0;
+}
+.footer_link{
+	
+	color: #747373;
+	font-family: 'Conv_Myriad-Pro-Semibold';
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 17.82px;
+	/* Text style for "H, ome" */
+	letter-spacing: -0.77px;
+	margin-right: 34px;
+}
+.footer_reserv{
+	margin: 18px 0 0 0;
+	color: #958f8f;
+	font-family: 'Conv_Myriad-Pro';
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 17.82px;
+	/* Text style for "©,  2015 H" */
+	letter-spacing: -0.77px;
+	}
+	.button{
+		position: fixed;
+		right: 0;
+		bottom: 0;
+	}
+	.button_link{
+	display: inline-block;
+	width: 50px;
+	line-height:  50px;
+	background-color: #71ae5a;
+	text-align: center;
+	border-radius: 30px;
+	}
+	.button_link_img{
+		width: auto;
+		vertical-align: 0;
+	}

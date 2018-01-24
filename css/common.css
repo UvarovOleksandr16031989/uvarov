@@ -1,0 +1,13 @@
+.container{
+	width: 980px;
+	margin: 0 auto;
+}
+.clearfix,
+.header_hat::after,
+.header_logo::after
+{
+	content: '';
+	clear: both;
+	display: table;
+	overflow: hidden;
+}
